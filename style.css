@@ -43,6 +43,7 @@ footer{
 a{
     animation: none;
     color: blue;
+    padding: 10px;
 }
 a:hover{
     color: rgb(159, 7, 7);
