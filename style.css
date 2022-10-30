@@ -44,6 +44,7 @@ a{
     animation: none;
     color: blue;
     padding: 10px;
+    font-size: 8px;
 }
 a:hover{
     color: rgb(159, 7, 7);
