@@ -15,7 +15,8 @@ header{
 
 section{
     background-color: white;
-    width: 500px;
+    min-width: 50px;
+    max-width: 500px;
     margin: auto;
     padding: 10px;
     border: 1px solid;
@@ -43,10 +44,13 @@ footer{
 a{
     animation: none;
     color: blue;
-    padding: 10px;
-    font-size: 8px;
+    font-size: 17px;
 }
 a:hover{
     color: rgb(159, 7, 7);
+}
+
+div#link{
+   padding-top: 20px;
 }
 
